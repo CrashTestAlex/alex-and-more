@@ -45,7 +45,7 @@ Go to your bots `config.yml` and find the area where it says:
             - ballsdex.packages.info
             - ballsdex.packages.players
             - ballsdex.packages.trade
-        +   - alex-and-more
+        +   - ballsdex.packages.stuffs
 ```
 
 Add under your last added package, this package! Even shows the name right there, isn't that nifty?
@@ -82,6 +82,8 @@ Make sure you're runnig git inside the package. If not, do:
 
 `cd path/to/the/package/`
 
+Make sure to replace the "path/to/the/package/" with, well, the path to the package file.
+
 Hey man, I don't know where you keep it!
 
 ### Step 2:
@@ -108,7 +110,6 @@ You should know where to go from here, docker compose down and then up and sorts
 
 
 
-
 ## Suggestions
 
 If you want to make any suggestions, additions, bug reports or issues, feel absolutely free to do so by making an issue on this very repo!
@@ -116,7 +117,14 @@ If you want to make any suggestions, additions, bug reports or issues, feel abso
 ## Documentation
 
 Learn how to use dex bots & packages by reading over the BallsDex repo wiki pages!
-[This is a Wiki. Click me!](https://github.com/laggron42/BallsDex-Discordbot/wiki/)!
+[This is a Wiki. Click me!](https://github.com/laggron42/BallsDex-Discordbot/wiki)
+
+## Special Thanks
+
+@hippopotis on discord for art
+@ihailthenight1234 on discord for help with coding
+@newzac. on discord for A LOT OF HELP with coding
+ChatGPT
 
 ## License
 
