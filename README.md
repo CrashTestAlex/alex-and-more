@@ -124,7 +124,6 @@ Learn how to use dex bots & packages by reading over the BallsDex repo wiki page
 @hippopotis on discord for art
 @ihailthenight1234 on discord for help with coding
 @newzac. on discord for A LOT OF HELP with coding
-ChatGPT
 
 ## License
 
