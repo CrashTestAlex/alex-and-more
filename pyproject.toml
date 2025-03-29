@@ -1,0 +1,17 @@
+[project]
+name = "alex-and-more"
+version = "1.0.0"
+authors = [
+  { name="crashtestalex", email="alexofthehouse351@gmail.com" },
+]
+description = "An add-on for your Ballsdex clone that lets you open 3 kinds of boxes."
+requires-python = ">=3.12"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
