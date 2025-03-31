@@ -70,42 +70,6 @@ Edit the file `Dockerfile` and add this line:
 
 Then run `docker compose build`!
 
-## Updating
-If the package ever gets new releases, heres how to update:
-
-
-### Step 1:
-
-Make sure you're runnig git inside the package. If not, do:
-
-`cd path/to/the/package/`
-
-Make sure to replace the "path/to/the/package/" with, well, the path to the package file.
-
-Hey man, I don't know where you keep it!
-
-### Step 2:
-
-Get the tags for the latest releases:
-
-`git fetch --tags`
-
-### Step 3: 
-
-Check the latest release tag:
-
-`git tag -1 | sort -V | tail -n 1`
-
-### Step 4: 
-
-Use this info to update to the newest release!
-
-`git checkout $(git tag -1 | sort -V | tail -n 1)`
-
-### Step 5: 
-
-You should know where to go from here, docker compose down and then up and sorts!
-
 ## Suggestions
 
 If you want to make any suggestions, additions, bug reports or issues, feel absolutely free to do so by making an issue on this very repo!
