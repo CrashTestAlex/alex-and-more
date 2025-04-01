@@ -25,7 +25,9 @@ repo that the BallsDex-Team has that shows you the instructions to make and inst
 
 ### Step 1
 
-Go to [This Link (Download Directory)](https://github.com/CrashTestAlex/alex-and-more/tree/main/stuffs) and download the file for the package.
+Go to [This Link (Download Directory)](https://download-directory.github.io/) and in the "Paste GitHub.com folder URL + press Enter" text box, paste this link:
+
+[https://github.com/CrashTestAlex/alex-and-more/tree/main/stuffs/](https://github.com/CrashTestAlex/alex-and-more/tree/main/stuffs/)
 
 ### Step 2 
 
