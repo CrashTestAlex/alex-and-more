@@ -21,6 +21,24 @@ repo that the BallsDex-Team has that shows you the instructions to make and inst
 > Invite BallsDex to your servers [here](https://discord.com/api/oauth2/authorize?client_id=999736048596816014&permissions=537193536&scope=bot%20applications.commands)!
 
 
+## Installing
+
+### Step 1
+
+Go to [This Link (Download Directory)](https://github.com/CrashTestAlex/alex-and-more/tree/main/stuffs) and download the file for the package.
+
+### Step 2 
+
+Format all the files into a neat folder & name the folder whatever you want without any special characters, then move it to BallsDex-DiscordBot(or your bots root)/ballsdex/packages.
+
+### Step 3
+
+Go to your config.yml and scroll down to your loaded packages. Under all of them, add:
+```
+ballsdex.packages.stuffs (or whatever you named it)
+```
+Then restart your bot!
+
 ## Suggestions
 
 If you want to make any suggestions, additions, bug reports or issues, feel absolutely free to do so by making an issue on this very repo!
